@@ -15,6 +15,7 @@ namespace OOP_CSharp
             //Inheritance
             Employee employee = new Employee();
 
+            //Polymorphism
             Mobile brand = new Brand();
             Mobile specification = new Specification();
         }
